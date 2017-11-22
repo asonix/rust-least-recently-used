@@ -1,0 +1,6 @@
+[package]
+name = "least_recently_used"
+version = "0.1.0"
+authors = ["Riley Trautman <asonix@tamu.edu>"]
+
+[dependencies]
